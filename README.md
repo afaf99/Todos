@@ -6,7 +6,7 @@
 <ul style="font-size: 25px; color: white;" >Angular</ul>
 
 :rocket:<h2 style="font-style:italic; color: rgb(158, 81, 124);">Project Overview </h2>
-<p style="font-size: 25px; color: white;" >The Todo List website allows users to manage their tasks and stay organized. It provides features to add, edit, and delete tasks. The project utilizes Angular on the frontend and Spring Boot on the backend.</p>
+<p style="font-size: 25px; color: white;" >The Todo List website allows users to manage their tasks and stay organized. It provides features to add, edit, and delete tasks. The project utilizes Angular on the front end and Spring Boot on the back end.</p>
 
 :rocket:<h2 style="font-style:italic; color: rgb(158, 81, 124);">Demo</h2>
 Check out the live demo of the project <a href="https://afaf99.github.io/Todos/">here</a>
