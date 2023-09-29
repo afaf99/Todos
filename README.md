@@ -1,4 +1,4 @@
-<h1><span style="font-style:italic; color: rgb(158, 81, 124);">Todo</span></h1>h1>
+<h1><span style="font-style:italic; color: rgb(158, 81, 124);">Todo</span></h1>
 <p style="font-size: 25px; color: white;" >This is a full-stack project - a Todo List website built using Angular and Spring Boot! It was quite a challenge for me to deploy the project on GitHub Pages, as I had never used GitHub before. However, I learned a lot through this experience and am proud of what I've accomplished.</p>
 
 <h2 style="font-style:italic; color: rgb(158, 81, 124);">Technologies Used</h2>
