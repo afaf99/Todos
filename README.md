@@ -102,7 +102,7 @@ These technologies work in harmony to power the system's functionality and provi
 <img src="image/Screenshot_8.png"> 
 
 
-[Todos Video](https://drive.google.com/uc?id=VIDEO_ID)
+[![Video Thumbnail](thumbnail_image.jpg)](https://drive.google.com/uc?id=VIDEO_ID)
 
 
 
