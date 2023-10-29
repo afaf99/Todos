@@ -102,7 +102,7 @@ These technologies work in harmony to power the system's functionality and provi
 <img src="image/Screenshot_8.png"> 
 
 
-[Watch My Video](https://drive.google.com/file/d/1Zg58AlEq4Cjw3OmAd1sE-777EVbzXr5g/view?usp=sharing)
+[![Video Thumbnail](thumbnail_image.jpg)](https://drive.google.com/file/d/1Zg58AlEq4Cjw3OmAd1sE-777EVbzXr5g/view?usp=sharing)
 
 
 
