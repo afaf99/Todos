@@ -9,7 +9,7 @@
     <li><a href="#Description-of-the-project">Description of the project</a></li>
     <li> <a href="#Setup">Setup</a> </li>
     <li><a href="#Technologies-Used">Technologies Used</a></li>
-    <li><a href="#Project Overview">Project Overview </a></li>
+    <li><a href="#Project-Overview">Project Overview </a></li>
     <li><a href="#Demo">Demo</a></li>
  
   </ol>
@@ -79,7 +79,7 @@ These technologies work in harmony to power the system's functionality and provi
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-##Demo
+## Demo
 <img src="image/Screenshot_1.png"> 
 <img src="image/Screenshot_2.png"> 
 <img src="image/Screenshot_3.png"> 
