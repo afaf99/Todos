@@ -102,7 +102,7 @@ These technologies work in harmony to power the system's functionality and provi
 <img src="image/Screenshot_8.png"> 
 
 
-<iframe width="560" height="315" src="https://drive.google.com/uc?id=VIDEO_ID" frameborder="0" allowfullscreen="true"></iframe>
+[Todos Video](https://drive.google.com/uc?id=VIDEO_ID)
 
 
 
